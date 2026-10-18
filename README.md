@@ -98,6 +98,8 @@ The `Jenkinsfile` defines four stages:
 | Kubernetes YAML files | ![](screenshots/29-k8s-yaml-files.png) |
 | EKS access for Jenkins | ![](screenshots/30-eks-jenkins-access.png) |
 | GitHub push (all code) | ![](screenshots/31-github-push-all.png) |
+| Jenkins GitHub trigger | ![](screenshots/32a-jenkins-trigger.png) |
+| Jenkins pipeline from SCM | ![](screenshots/32b-jenkins-pipeline-scm.png) |
 | Pipeline first successful build | ![](screenshots/33-pipeline-first-build.png) |
 | Pods and service | ![](screenshots/34-k8s-pods-service.png) |
 | App via Load Balancer | ![](screenshots/35-app-via-loadbalancer.png) |
